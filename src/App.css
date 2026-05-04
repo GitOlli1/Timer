@@ -1,0 +1,9 @@
+.body {
+  margin: 0;
+}
+
+.app-container {
+  background: white;
+  height: 100vh;
+  color: black;
+}
