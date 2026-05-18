@@ -1,12 +1,13 @@
 .timer-container {
     color: black;
-    font-size: 25px;
+    font-size: 35px;
     padding-bottom: 20px;
 }
 
 .count-container {
-    font-size: 20px;
+    font-size: 25px;
     padding-bottom: 10px;
+    margin-top: 20px;
 }
 
 .button-container {
@@ -15,10 +16,18 @@
 }
 
 .button-style {
-    font-size: 20px;
-    margin-top: 10px;
-    padding: 10px;
+    font-size: 25px;
+    margin-top: 20px;
+    padding: 15px;
     border-radius: 5px;
     background: palegreen;
-    width: 100px;
+    width: 110px;
+}
+
+.countdown-container {
+    margin-top: 20px;
+}
+
+.input-container {
+    margin-top: 10px;
 }
