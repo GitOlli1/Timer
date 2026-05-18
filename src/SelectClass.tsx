@@ -15,7 +15,7 @@ export const SelectClass = () => {
             {!isTimerInterval && (
                 <div className="intervalTimer-container">
                 <div onClick={handleIntervalTimer} className="interval-container">
-                    Interval Timer
+                    HIIT Training
                 </div>
                 </div>
             )}
