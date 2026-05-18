@@ -21,7 +21,6 @@ export default function IntervalTimer() {
   };
 
   const countStart = () => {
-    console.log("Start Countdown");
     setPhase("countdown");
     setIsCountdown(true);
   }
