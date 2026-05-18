@@ -110,7 +110,11 @@ export default function IntervalTimer() {
               border: "none",
               padding: 5,
               fontSize: 15,
-              borderRadius: 3
+              borderRadius: 3,
+              background: "white",
+              color: "white",
+              borderColor: "black",
+              backgroundColor: "gray"
             }}
             min={1}
             value={cycles}
