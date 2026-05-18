@@ -1,13 +1,13 @@
 import './App.css'
 import { Header } from './header/Header'
-import IntervalTimer from './IntervallTimer'
+import { SelectClass } from './SelectClass'
 
 function App() {
 
   return (
     <div className='app-container'>
       <Header />
-      <IntervalTimer />
+      <SelectClass />
     </div>
   )
 }

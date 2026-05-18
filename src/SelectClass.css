@@ -1,0 +1,12 @@
+.intervalTimer-container {
+    display: flex;
+    justify-content: center;
+}
+
+.interval-container {
+    border: 0.5px solid black;
+    width: 250px;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 25px;
+}
